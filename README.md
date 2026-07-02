@@ -1,4 +1,4 @@
-# 🚀 Achmad Lubis – Digital Marketing Portfolio.
+# 🚀 Achmad Lubis – Digital Marketing Portfolio
 
 <p align="center">
 
