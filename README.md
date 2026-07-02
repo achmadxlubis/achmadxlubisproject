@@ -120,7 +120,7 @@ Tagline:
 
 ## 👨‍💻 My Role in This Project
 
-In this project, I worked as a **Technical Team Member**, responsible for the **hands-on development and implementation of the landing page execution**.
+In this project, I worked as a **Technical Team**, responsible for the **hands-on development and implementation of the landing page execution**.
 
 My responsibilities include:
 
@@ -152,14 +152,14 @@ My responsibilities include:
 ## 🌐 Project Output
 
 👉 Landing Page:
-https://www.betterjunk.web.id/
+[Better Junk: Rasa Junk Food Isi Tetap Good](https://www.betterjunk.web.id/)
 
 ---
 
 ## 📱 Social Media
 
-- Instagram: https://www.instagram.com/betterjunk.id
-- Brand: Better Junk Indonesia
+- Instagram: [@betterjunk.id](https://www.instagram.com/betterjunk.id)
+- LinkedIn: [Better Junk Indonesia](https://www.linkedin.com/in/better-junk-indonesia-2a116a3b7)
 
 ---
 
@@ -232,10 +232,10 @@ The campaign was designed and executed as part of a **digital marketing group pr
 
 ## 🌐 Brand Assets
 
-- Website: https://www.betterjunk.web.id/
-- Instagram: https://www.instagram.com/betterjunk.id
-- Facebook: https://www.facebook.com/betterjunk.id
-- LinkedIn: https://www.linkedin.com/in/better-junk-indonesia-2a116a3b7
+- Website: [Better Junk: Rasa Junk Food Isi Tetap Good](https://www.betterjunk.web.id/)
+- Instagram: [@betterjunk.id](https://www.instagram.com/betterjunk.id)
+- Facebook: [Better Junk](https://www.facebook.com/betterjunk.id)
+- LinkedIn: [Better Junk Indonesia](https://www.linkedin.com/in/better-junk-indonesia-2a116a3b7)
 
 ---
 
@@ -327,7 +327,7 @@ The campaign was structured using a **full funnel strategy**:
 
 ## 🎨 My Role in This Project
 
-In this project, I contributed as a **Designer & Content Team Member**, responsible for the visual communication and content direction of the campaign.
+In this project, I contributed as a **Designer & Content Team**, responsible for the visual communication and content direction of the campaign.
 
 My responsibilities include:
 
@@ -428,10 +428,10 @@ The campaign was designed to drive:
 
 ## 🌐 Brand Assets
 
-- Website: https://www.betterjunk.web.id/
-- Instagram: https://www.instagram.com/betterjunk.id
-- Facebook: https://www.facebook.com/betterjunk.id
-- LinkedIn: https://www.linkedin.com/in/better-junk-indonesia-2a116a3b7
+- Website: [Better Junk: Rasa Junk Food Isi Tetap Good](https://www.betterjunk.web.id/)
+- Instagram: [@betterjunk.id](https://www.instagram.com/betterjunk.id)
+- Facebook: [Better Junk](https://www.facebook.com/betterjunk.id)
+- LinkedIn: [Better Junk Indonesia](https://www.linkedin.com/in/better-junk-indonesia-2a116a3b7)
 
 ---
 
