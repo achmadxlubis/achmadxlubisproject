@@ -1,10 +1,25 @@
-# 🍔 Better Junk – Landing Page Group Project
+# 🍔 Unbounce – Better Junk Landing Page Project
 
 <p align="center">
+
   <a href="https://www.betterjunk.web.id/" target="_blank">
-    <img src="https://img.shields.io/badge/Project-Landing%20Page%20Marketing-0f172a?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Brand-Better%20Junk-22c55e?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Digital%20Marketing%20Strategy-1e3a8a?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/📊%20Project-Landing%20Page%20Marketing-0f172a?style=for-the-badge"/>
+  </a>
+
+  <a href="https://www.betterjunk.web.id/" target="_blank">
+    <img src="https://img.shields.io/badge/🏷️%20Brand-Better%20Junk-22c55e?style=for-the-badge"/>
+  </a>
+
+  <a href="https://www.betterjunk.web.id/" target="_blank">
+    <img src="https://img.shields.io/badge/🎯%20Focus-Digital%20Marketing%20Strategy-1e3a8a?style=for-the-badge"/>
+  </a>
+
+</p>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/15Rcy7E7rSzG45JIBDtLYobHbWW_5175T/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/📊%20View%20Full%20Presentation-Case%20Study-1f2937?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  </a>
 </p>
 
 ---
