@@ -1,7 +1,8 @@
 # 🍔 Better Junk – Landing Page Group Project
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Project-Landing%20Page%20Marketing-0f172a?style=for-the-badge"/>
+  <a href="https://www.betterjunk.web.id/" target="_blank">
+    <img src="https://img.shields.io/badge/Project-Landing%20Page%20Marketing-0f172a?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Brand-Better%20Junk-22c55e?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Focus-Digital%20Marketing%20Strategy-1e3a8a?style=for-the-badge"/>
 </p>
