@@ -445,9 +445,8 @@ The campaign was designed to drive:
 
 ## 📊 Campaign Performance Summary
 
-Based on campaign execution data :contentReference[oaicite:1]{index=1}:
+Based on campaign execution data:
 
-- 💰 Total Spend: IDR 492,716  
 - 👁 Impressions: 14,192  
 - 🔗 Total Clicks: 120  
 - 📈 CTR: ~0.84%  
@@ -462,13 +461,11 @@ The campaign was divided into 2 main objectives:
 
 ### 1. Traffic Campaign
 - Objective: Website visits
-- Budget: IDR 136,765 :contentReference[oaicite:2]{index=2}  
 - Focus: High-intent keyword clicks
 - Result: 120 clicks generated
 
 ### 2. Leads Campaign
 - Objective: Conversion / Lead generation
-- Budget: IDR 355,951 :contentReference[oaicite:3]{index=3}  
 - Result: 2 qualified leads generated
 
 ---
