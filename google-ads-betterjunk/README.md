@@ -172,3 +172,14 @@ My responsibilities include:
 - 📷 Instagram: https://www.instagram.com/betterjunk.id
 - 👍 Facebook: https://www.facebook.com/betterjunk.id
 - 💼 LinkedIn: https://www.linkedin.com/in/better-junk-indonesia-2a116a3b7
+
+---
+
+## 📌 Author
+
+**Achmad Lubis**  
+Digital Marketing Enthusiast | Performance Marketing | Social Media Strategy
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/mc9-3cypZEYAAAAd/rainbow-line.gif" width="100%" height="6"/>
+</p>
